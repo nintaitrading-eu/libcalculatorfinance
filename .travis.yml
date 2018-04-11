@@ -1,2 +1,3 @@
 language: c
-build: make
+install: true
+script: make
