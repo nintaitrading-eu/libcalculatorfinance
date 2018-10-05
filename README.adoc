@@ -1,3 +1,19 @@
 = calculator_finance
 
+== General info
 Shared library for financial calculations w.r.t. trading and investing.
+
+== Build status
+
+|==============================
+| branch | build status
+| libcalculatorfinance-develop | image:https://travis-ci.org/nintaitrading-eu/libcalculatorfinance.svg?branch=libcalculatorfinance-develop["Build Status", link="https://travis-ci.org/nintaitrading-eu/libcalculatorfinance"]
+| libcalculatorfinance-release | image:https://travis-ci.org/nintaitrading-eu/libcalculatorfinance.svg?branch=libcalculatorfinance-release["Build Status", link="https://travis-ci.org/nintaitrading-eu/libcalculatorfinance"]
+|==============================
+
+== Release
+
+|==============================
+| date | version
+| N/A | N/A
+|==============================
